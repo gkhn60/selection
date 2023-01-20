@@ -29,6 +29,8 @@ Step 16 -> [2,6,16,18,22,27]
 
 *Time Complexity -> Average case: Aradığımız sayının ortada olması*
 
+*Big-O=(n^2)*
+
 
 
 ----------------------------------------------------------
